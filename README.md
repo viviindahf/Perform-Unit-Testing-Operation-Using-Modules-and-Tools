@@ -17,6 +17,7 @@ Classmethod must have a reference to the class object as the first parameter. Wh
 ## Static Method
 When this method is called, we don't pass an instance of the class to it (as we usually do with methods).
 
+# Open, Read, Close, Delete File in Phyton
 ## Open File
 The open() function returns a file object, which has a read() method for reading the content of the file
 
@@ -29,6 +30,7 @@ Python file method close() closes the opened file. A closed file cannot be read 
 ## Delete File
 To delete a file, you must import the OS module, and run its os.remove() function
 
+# Operating Using Modules and Tools
 ## I/o
 Python io module allows us to manage the file-related input and output operations.
 
